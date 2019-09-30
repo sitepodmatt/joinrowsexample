@@ -22,7 +22,7 @@ namespace AnimalFarmDatabase
 
                 var entity = new Animal();
 
-                for (int i = 0; i < 5; i++)
+                for (int i = 0; i < 500; i++)
                 {
                     entity.TextAttributes.Add(new TextAttribute()
                     {
